@@ -1,0 +1,1 @@
+SELECT * FROM reatail_store.product_reviews;
